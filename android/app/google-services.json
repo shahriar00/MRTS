@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179253694184",
+    "project_id": "mrts-7ba05",
+    "storage_bucket": "mrts-7ba05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179253694184:android:e442cf26ffaa111203035d",
+        "android_client_info": {
+          "package_name": "com.example.mrts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw4AVF7aRPnrkhs1qXPsXMxl4O9rmffjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
