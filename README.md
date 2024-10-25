@@ -15,3 +15,6 @@
 ### E-Ticket Generation: Generates e-tickets with fare, date, origin, and destination details.
 ### Ticket Scanner Integration: Supports scanning of generated tickets for access control.
 ### Downloadable Ticket: Allows users to save and access their tickets offline.
+
+
+![MRts](https://github.com/user-attachments/assets/a590113d-f107-435a-9f29-dde4b68366c5)
